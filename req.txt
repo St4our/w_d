@@ -1,0 +1,7 @@
+requests==2.32.3
+transformers
+langdetect==1.0.9
+pydantic
+fastapi
+accelerate
+bitsandbytes
